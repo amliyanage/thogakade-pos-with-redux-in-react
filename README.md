@@ -34,7 +34,7 @@ This project demonstrates how to integrate **React**, **Redux**, and **Redux Thu
 - **Frontend**: React
 - **State Management**: Redux, Redux Thunk
 - **UI Framework**: tailwind (or any custom CSS)
-- **JavaScript**: ES6+ JavaScrip
+- **TypeScript**: ES6+ JavaScrip
 
 ---
 
